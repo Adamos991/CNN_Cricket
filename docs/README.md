@@ -6,10 +6,6 @@
 
 **Adam O’Sullivan (19265808) Bartlomiej Karas (19235305)**
 
-<a name="_page1_x72.00_y72.00"></a>Table of Contents
-
-[**Table of Contents](#_page1_x72.00_y72.00) **[1** ](#_page1_x72.00_y72.00)[The Data Set](https://docs.google.com/document/d/1857RAa1NDpri4rxNz7QOEYoM8-_x5yWjpD8H6G57iKY/edit#heading=h.8he29gyuhu9n) 3 [Network Structure and Hyperparameters](https://docs.google.com/document/d/1857RAa1NDpri4rxNz7QOEYoM8-_x5yWjpD8H6G57iKY/edit#heading=h.hbgugxkc2of0) 6 [The Loss Function](https://docs.google.com/document/d/1857RAa1NDpri4rxNz7QOEYoM8-_x5yWjpD8H6G57iKY/edit#heading=h.jj9g3hqmksr3) 11 [The Optimiser](https://docs.google.com/document/d/1857RAa1NDpri4rxNz7QOEYoM8-_x5yWjpD8H6G57iKY/edit#heading=h.rr8ih58sc5cm) 12 [Results](https://docs.google.com/document/d/1857RAa1NDpri4rxNz7QOEYoM8-_x5yWjpD8H6G57iKY/edit#heading=h.wz43zftyh82i) 14 [Evaluation of the results](https://docs.google.com/document/d/1857RAa1NDpri4rxNz7QOEYoM8-_x5yWjpD8H6G57iKY/edit#heading=h.xcqw83u88wo0) 15 [Impact of Hyperparameters](https://docs.google.com/document/d/1857RAa1NDpri4rxNz7QOEYoM8-_x5yWjpD8H6G57iKY/edit#heading=h.5tttpq8w76ug) 17 [References](https://docs.google.com/document/d/1857RAa1NDpri4rxNz7QOEYoM8-_x5yWjpD8H6G57iKY/edit#heading=h.ki4n8k6gi8hi) 21**
-
 **The Data Set**
 
 The data set we used for our LeNet-5 Convolutional Neural Network is the “Cricket Shots Dataset”[1], which is a data set we found on Kaggle that contains 4724 images of four different cricket swings, a “drive”, a “legglance-flick”, a “pullshot”, and a “sweep”. Our goal was to train our Neural Network to recognise these different types of swings and to identify which of the four swings the image is showing. A human would be able to tell the difference between these based on the way the player is holding the racket and based on the player’s posture, we tried to mimic this within our Convolutional Neural Network.
